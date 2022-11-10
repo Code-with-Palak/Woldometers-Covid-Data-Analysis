@@ -4,7 +4,9 @@
 This study contributes in analyzing the effects of novel coronavirus in different countries and how it affected the growth and population of countries through deep exploratory data analysis via visual and graphs.
 
 ## Covid Analysis of top 20 affected Countries
+
 Data taken from worldometers: https://www.worldometers.info/coronavirus/#countries
+
 Time period taken:  **15-Feb-2020**   to **05-Jul-2021**
 
 In this analysis things performed are:

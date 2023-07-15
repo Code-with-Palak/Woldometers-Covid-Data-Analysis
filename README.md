@@ -15,7 +15,7 @@ In this analysis things performed are:
 *   Complete analysis of top 20 countries.
 *   Day wise analysis of each country(20 countries).
 
-
+Note: The plots and figures are not visible in ipynb due to plotly limitations.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/Palak_gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-gupta-/)

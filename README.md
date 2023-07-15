@@ -18,7 +18,7 @@ In this analysis things performed are:
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/Palak_gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/palak-gupta-ML)
+[![linkedin](https://img.shields.io/badge/Palak_gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/palak-gupta-)
 
 
 ## Authors
